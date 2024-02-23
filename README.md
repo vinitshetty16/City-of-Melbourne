@@ -2,6 +2,8 @@
 
 Welcome to the Melbourne Tourist Guide project! This interactive map application provides a comprehensive guide for tourists visiting Melbourne, Australia, offering insights into the city's landmarks and nearby food establishments.
 
+![Melbourne](https://github.com/vinitshetty16/City-of-Melbourne/assets/63487624/07fff327-2f94-4e43-9106-1f910ccd066a)
+
 ## Features
 
 - **Interactive Map:** Explore Melbourne's landmarks and food establishments through an intuitive map interface.
