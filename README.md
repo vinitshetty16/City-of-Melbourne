@@ -8,7 +8,6 @@ Welcome to the Melbourne Tourist Guide project! This interactive map application
 
 - **Interactive Map:** Explore Melbourne's landmarks and food establishments through an intuitive map interface.
 - **Layer Switching:** Toggle between displaying landmarks and food outlets using the Layer Button.
-- **Metrics Display:** Click on map locations to view relevant metrics for nearby cafes, restaurants, and bistros.
 - **Planning Tool:** Assist visitors in planning their itinerary and maximizing their time in Melbourne.
 - **Business Promotion:** Increase visibility and foot traffic for local cafes, restaurants, and bistros.
 
